@@ -12,7 +12,7 @@
 
 ## Демо
 
-[Live Demo](https://vitiok2021.github.io/Coffee/) — сайт для бренду кави
+[Coffee](https://vitiok2021.github.io/Coffee/) — сайт для бренду кави
 
 ## Особливості
 - Адаптивний дизайн, оптимізований для всіх пристроїв
